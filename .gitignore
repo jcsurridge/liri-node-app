@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# adding three lines of suggested code
+
+node_modules
+.DS_Store
+.env
